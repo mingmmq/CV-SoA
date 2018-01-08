@@ -5,3 +5,6 @@ This is a fast index of the state of the art results for computer vision researc
 
 Welcome to add the topic and metric. 
 
+| Topic         | Algorithm           | Metrics  |
+| ------------- |:-------------:| -----:|
+| object detection     | right-aligned | $1600 |
