@@ -8,7 +8,7 @@ Welcome to add the topic and metric.
 ### Object detection
 
 | Topic         | Algorithm           | VOC/mAP  | Speed|
-| ------------- |:-------------:| :-----:| |
+| ------------- |:-------------:| :-----:|--:|
 | |Fast R-CNN|||
 | | Faster R-CNN | 69.6 ||
 |YOLO||
