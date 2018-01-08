@@ -26,15 +26,16 @@ Welcome to add the topic and metric.
 [Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)
 Applications:
 
-Image Classification
-Object Detection
-Object Tracking 
-Pose Estimation
-Text Detection & Recognition
-Visiual Saliency Detection
-Action Recognition
-Scene Labeling
-Speech & Natural Language Processing.
+*Image Classification
+*Object Detection
+*Object Tracking 
+*Pose Estimation
+*Text Detection & Recognition
+*Visiual Saliency Detection
+*Action Recognition
+*Scene Labeling
+*Speech & Natural Language Processing.
+*Object Detection in RGB-D images(RGB-Depth)
 
 
 
